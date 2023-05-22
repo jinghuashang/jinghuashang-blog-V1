@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>屑殇-Blog</title>
+  
+  <subtitle>屑殇的小破站</subtitle>
+  <link href="http://www.jinghuashang.cn/atom.xml" rel="self"/>
+  
+  <link href="http://www.jinghuashang.cn/"/>
+  <updated>2023-05-02T02:38:52.219Z</updated>
+  <id>http://www.jinghuashang.cn/</id>
+  
+  <author>
+    <name>jinghuashang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>本地博客部署计划</title>
+    <link href="http://www.jinghuashang.cn/posts/536e.html"/>
+    <id>http://www.jinghuashang.cn/posts/536e.html</id>
+    <published>2023-04-02T12:15:25.000Z</published>
+    <updated>2023-05-02T02:38:52.219Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;h2 id=&quot;关于这篇文章的意义&quot;&gt;&lt;a href=&quot;#关于这篇文章的意义&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="github" scheme="http://www.jinghuashang.cn/tags/github/"/>
+    
+    <category term="frpc" scheme="http://www.jinghuashang.cn/tags/frpc/"/>
+    
+    <category term="hexo" scheme="http://www.jinghuashang.cn/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>安卓root</title>
+    <link href="http://www.jinghuashang.cn/posts/b206.html"/>
+    <id>http://www.jinghuashang.cn/posts/b206.html</id>
+    <published>2023-02-24T11:35:02.000Z</published>
+    <updated>2023-05-11T09:11:37.555Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;h2 id=&quot;🚧免责声明🚧&quot;&gt;&lt;a href=&quot;#🚧免责声明🚧&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="手机" scheme="http://www.jinghuashang.cn/categories/%E6%89%8B%E6%9C%BA/"/>
+    
+    
+    <category term="root" scheme="http://www.jinghuashang.cn/tags/root/"/>
+    
+    <category term="android" scheme="http://www.jinghuashang.cn/tags/android/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>个人网站搭建教程</title>
+    <link href="http://www.jinghuashang.cn/posts/bfb3.html"/>
+    <id>http://www.jinghuashang.cn/posts/bfb3.html</id>
+    <published>2022-11-22T11:57:20.000Z</published>
+    <updated>2023-05-11T10:18:13.520Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;个人网站搭建教程&quot;&gt;&lt;a href=&quot;#个人网站搭建教程&quot; class=&quot;headerlink&quot; title=&quot;个人网站搭建教程&quot;&gt;&lt;/a&gt;个人网站搭建教程&lt;/h1&gt;&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="html" scheme="http://www.jinghuashang.cn/tags/html/"/>
+    
+    <category term="github" scheme="http://www.jinghuashang.cn/tags/github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>原神私服</title>
+    <link href="http://www.jinghuashang.cn/posts/ac0b.html"/>
+    <id>http://www.jinghuashang.cn/posts/ac0b.html</id>
+    <published>2022-10-22T14:30:59.000Z</published>
+    <updated>2023-01-05T12:09:36.733Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;原神私服&quot;&gt;&lt;a href=&quot;#原神私服&quot; class=&quot;headerlink&quot; title=&quot;原神私服&quot;&gt;&lt;/a&gt;原神私服&lt;/h1&gt;&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="server" scheme="http://www.jinghuashang.cn/tags/server/"/>
+    
+    <category term="genshin" scheme="http://www.jinghuashang.cn/tags/genshin/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>原神 for Linux</title>
+    <link href="http://www.jinghuashang.cn/posts/1ec2.html"/>
+    <id>http://www.jinghuashang.cn/posts/1ec2.html</id>
+    <published>2022-10-22T14:30:46.000Z</published>
+    <updated>2022-10-22T14:55:02.798Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;原神-for-Linux-食用方法&quot;&gt;&lt;a href=&quot;#原神-for-Linux-食用方法&quot; class=&quot;headerlink&quot; title=&quot;原神 for Linux 食用方法&quot;&gt;&lt;/a&gt;原神 for Linux 食用方法&lt;/h1&gt;&lt;h2</summary>
+        
+      
+    
+    
+    
+    
+    <category term="linux" scheme="http://www.jinghuashang.cn/tags/linux/"/>
+    
+    <category term="game" scheme="http://www.jinghuashang.cn/tags/game/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>misskey</title>
+    <link href="http://www.jinghuashang.cn/posts/de31.html"/>
+    <id>http://www.jinghuashang.cn/posts/de31.html</id>
+    <published>2022-10-22T14:11:26.000Z</published>
+    <updated>2023-05-11T09:09:59.206Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Misskey-微博&quot;&gt;&lt;a href=&quot;#Misskey-微博&quot; class=&quot;headerlink&quot; title=&quot;Misskey 微博&quot;&gt;&lt;/a&gt;Misskey 微博&lt;/h1&gt;&lt;h2 id=&quot;关于Misskey&quot;&gt;&lt;a href=&quot;#关于Misskey&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="网站" scheme="http://www.jinghuashang.cn/tags/%E7%BD%91%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Redmi K50</title>
+    <link href="http://www.jinghuashang.cn/posts/943e.html"/>
+    <id>http://www.jinghuashang.cn/posts/943e.html</id>
+    <published>2022-08-14T15:07:01.000Z</published>
+    <updated>2023-05-11T09:17:45.988Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;img src=&quot;https://img.wwery.com/jinghuashang/K7aFVm9y.gif&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="手机" scheme="http://www.jinghuashang.cn/categories/%E6%89%8B%E6%9C%BA/"/>
+    
+    
+    <category term="红米" scheme="http://www.jinghuashang.cn/tags/%E7%BA%A2%E7%B1%B3/"/>
+    
+    <category term="安卓" scheme="http://www.jinghuashang.cn/tags/%E5%AE%89%E5%8D%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Minecraft Server</title>
+    <link href="http://www.jinghuashang.cn/posts/cd7c.html"/>
+    <id>http://www.jinghuashang.cn/posts/cd7c.html</id>
+    <published>2022-04-01T03:28:57.000Z</published>
+    <updated>2023-05-11T09:10:28.158Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Minecraft-Server-搭建教程&quot;&gt;&lt;a href=&quot;#Minecraft-Server-搭建教程&quot; class=&quot;headerlink&quot; title=&quot;Minecraft Server 搭建教程&quot;&gt;&lt;/a&gt;Minecraft Server</summary>
+        
+      
+    
+    
+    
+    <category term="TCP" scheme="http://www.jinghuashang.cn/categories/TCP/"/>
+    
+    
+    <category term="计算机" scheme="http://www.jinghuashang.cn/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+    <category term="MC" scheme="http://www.jinghuashang.cn/tags/MC/"/>
+    
+    <category term="网络" scheme="http://www.jinghuashang.cn/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Arch Liunx (Legacy BIOS)</title>
+    <link href="http://www.jinghuashang.cn/posts/b96d.html"/>
+    <id>http://www.jinghuashang.cn/posts/b96d.html</id>
+    <published>2022-02-25T06:34:59.000Z</published>
+    <updated>2023-05-11T09:08:18.162Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Arch-Linux安装教程-（以Legacy-BIOS为例）-最后更新于2023年01月06日&quot;&gt;&lt;a href=&quot;#Arch-Linux安装教程-（以Legacy-BIOS为例）-最后更新于2023年01月06日&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Linux 系统" scheme="http://www.jinghuashang.cn/categories/Linux-%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+    <category term="计算机" scheme="http://www.jinghuashang.cn/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+    <category term="Arch Linux" scheme="http://www.jinghuashang.cn/tags/Arch-Linux/"/>
+    
+    <category term="系统" scheme="http://www.jinghuashang.cn/tags/%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Arch Liunx (UEFI)</title>
+    <link href="http://www.jinghuashang.cn/posts/38e9.html"/>
+    <id>http://www.jinghuashang.cn/posts/38e9.html</id>
+    <published>2022-02-25T06:34:59.000Z</published>
+    <updated>2023-05-11T09:07:21.323Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Arch-Linux安装教程-（以UEFI为例）-最后更新于2023年01月06日&quot;&gt;&lt;a href=&quot;#Arch-Linux安装教程-（以UEFI为例）-最后更新于2023年01月06日&quot; class=&quot;headerlink&quot; title=&quot;Arch</summary>
+        
+      
+    
+    
+    
+    <category term="Linux 系统" scheme="http://www.jinghuashang.cn/categories/Linux-%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+    <category term="计算机" scheme="http://www.jinghuashang.cn/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+    <category term="Arch Linux" scheme="http://www.jinghuashang.cn/tags/Arch-Linux/"/>
+    
+    <category term="系统" scheme="http://www.jinghuashang.cn/tags/%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Arknights</title>
+    <link href="http://www.jinghuashang.cn/posts/a2cc.html"/>
+    <id>http://www.jinghuashang.cn/posts/a2cc.html</id>
+    <published>2021-08-27T13:27:45.000Z</published>
+    <updated>2023-05-11T10:12:35.103Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;官网&quot;&gt;&lt;a href=&quot;#官网&quot; class=&quot;headerlink&quot; title=&quot;官网&quot;&gt;&lt;/a&gt;官网&lt;/h2&gt;&lt;p&gt;前往 [明日方舟] 官网(&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="游戏" scheme="http://www.jinghuashang.cn/tags/%E6%B8%B8%E6%88%8F/"/>
+    
+    <category term="arknights" scheme="http://www.jinghuashang.cn/tags/arknights/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于本站</title>
+    <link href="http://www.jinghuashang.cn/posts/c437.html"/>
+    <id>http://www.jinghuashang.cn/posts/c437.html</id>
+    <published>2021-02-14T14:36:22.000Z</published>
+    <updated>2023-05-11T09:12:38.473Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;本站简介&quot;&gt;&lt;a href=&quot;#本站简介&quot; class=&quot;headerlink&quot; title=&quot;本站简介&quot;&gt;&lt;/a&gt;本站简介&lt;/h2&gt;&lt;h2</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
